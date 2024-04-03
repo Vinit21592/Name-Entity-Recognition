@@ -1,2 +1,2 @@
 # Name-Entity-Recognition
-NER
+NER - Token Classification Task
